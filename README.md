@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ridhak
+- 👀 I’m interested in all things to do with Data!
+- 🌱 I’m currently working as a Big Data Engineer
+- 💞️ I’m looking to collaborate on Data Engineering and Analytics
